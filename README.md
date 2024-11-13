@@ -1,1 +1,1 @@
-# ScriptsForCheckingBrokenLinks
+# ScriptForCheckingBrokenLinks
